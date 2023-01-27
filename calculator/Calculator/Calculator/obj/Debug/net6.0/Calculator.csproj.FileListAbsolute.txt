@@ -1,0 +1,15 @@
+C:\Users\samol\OneDrive\Bureau\prog 2\Personnel\Personnel-Prog\calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Users\samol\OneDrive\Bureau\prog 2\Personnel\Personnel-Prog\calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\samol\OneDrive\Bureau\prog 2\Personnel\Personnel-Prog\calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Users\samol\OneDrive\Bureau\prog 2\Personnel\Personnel-Prog\calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Users\samol\OneDrive\Bureau\prog 2\Personnel\Personnel-Prog\calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Users\samol\OneDrive\Bureau\prog 2\Personnel\Personnel-Prog\calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\samol\OneDrive\Bureau\prog 2\Personnel\Personnel-Prog\calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samol\OneDrive\Bureau\prog 2\Personnel\Personnel-Prog\calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\samol\OneDrive\Bureau\prog 2\Personnel\Personnel-Prog\calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\samol\OneDrive\Bureau\prog 2\Personnel\Personnel-Prog\calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\samol\OneDrive\Bureau\prog 2\Personnel\Personnel-Prog\calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Users\samol\OneDrive\Bureau\prog 2\Personnel\Personnel-Prog\calculator\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\Users\samol\OneDrive\Bureau\prog 2\Personnel\Personnel-Prog\calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Users\samol\OneDrive\Bureau\prog 2\Personnel\Personnel-Prog\calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\Users\samol\OneDrive\Bureau\prog 2\Personnel\Personnel-Prog\calculator\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
